@@ -23,5 +23,5 @@ A dynamic shopping cart web application built using HTML, CSS, and JavaScript.
 2. Open "index.html" in browser
 
 ##Project Preview
-![Project Preview](preview-1.png)
+![Project Preview](preview.png)
 
